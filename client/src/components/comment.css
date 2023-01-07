@@ -1,0 +1,39 @@
+.heading-text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+  }
+
+  .btn-comment{
+background: #7E34F7;
+border-radius: 4px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 11px;
+line-height: 150.02%;
+/* or 17px */
+
+text-align: center;
+
+color: #FFFFFF;
+  }
+
+  .time-text{
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400 !important;
+    font-size: 11px !important;
+    line-height: 13px;
+    
+    color: #4B587C;
+    
+  }
+  
